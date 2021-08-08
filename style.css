@@ -14,22 +14,24 @@
 #navbar a{
     text-decoration: none;
     color: whitesmoke;
-    font-size: 1.5rem;;
+    font-size: 2.3rem;;
 }
 
 .nav-list{
     display: inline-flex;
-    margin-right: 2rem;
-    background-color: black;
-    
+    margin-right: 10%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
 .nav-li{
     list-style: none;
-    /* margin: 6% 6%; */
-    /* margin-top: 8%; */
-    /* padding-right: 6%;
-    padding-bottom: 8; */
+    /* /* margin: 6% 6%;
+    margin-top: 8%; */
+    margin-right: 6%;
+    margin-left: 6%;
+    padding-bottom: 2%;
+
 }
 
 #welcome-section{
